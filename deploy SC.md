@@ -81,46 +81,46 @@ contract TestToken {
 5. Edit nama Contract, nama Token, dan Symbol Token
 <p align="left"><img height="auto" width="auto" src="https://github.com/Megumiiiiii/Taiko-Node/assets/98658943/734211cb-cd79-4d37-84e6-17edfe021362">
 
-7. Buka `Compiler` disini
+6. Buka `Compiler` disini
 <p align="left"><img height="auto" width="auto" src="https://github.com/Megumiiiiii/Taiko-Node/assets/98658943/627b1dd5-f232-4eb4-bc33-214988058362">
 
-8. Pilih `0.8.12` lalu *compile*. Abaikan warn
+7. Pilih `0.8.12` lalu *compile*. Abaikan warn
 <p align="left"><img height="auto" width="auto" src="https://github.com/Megumiiiiii/Taiko-Node/assets/98658943/99a42094-3ad5-4ea4-9e4d-189df67493c7">
 
-9. Setelah di *compile*, pergi ke bagian *deployer*
+8. Setelah di *compile*, pergi ke bagian *deployer*
 <p align="left"><img height="auto" width="auto" src="https://github.com/Megumiiiiii/Taiko-Node/assets/98658943/e3dc23cb-0c25-4d98-91f2-3afa518500c8">
 
-10. Pilih `Injected Provider` lalu hubungkan ke Metamask. Pastikan Metamask mu sudah menggunakan jaringan `Taiko Alpha-3 Testnet`
+9. Pilih `Injected Provider` lalu hubungkan ke Metamask. Pastikan Metamask mu sudah menggunakan jaringan `Taiko Alpha-3 Testnet`
 <p align="left"><img height="auto" width="auto" src="https://github.com/Megumiiiiii/Taiko-Node/assets/98658943/12e0be8f-7aa6-4268-96fd-a6306f82c618">
 
-11. Klik Deploy
+10. Klik Deploy
 <p align="left"><img height="auto" width="auto" src="https://github.com/Megumiiiiii/Taiko-Node/assets/98658943/c9d12c85-d9e8-45c2-8d77-ff11bb812fcf">
 
-12. Approve di Metamask
+11. Approve di Metamask
 <p align="left"><img height="auto" width="auto" src="https://github.com/Megumiiiiii/Taiko-Node/assets/98658943/0eed8d1e-e85e-4c80-98fe-0036279acbec">
 
-13. Setelah terkonfirmasi, buka txhash tadi. Lalu klik SC mu
+12. Setelah terkonfirmasi, buka txhash tadi. Lalu klik SC mu
 <p align="left"><img height="auto" width="auto" src="https://github.com/Megumiiiiii/Taiko-Node/assets/98658943/5032e311-8237-47ae-b260-f8b8985afbb3">
 
-14. Pergi ke bagian `Code`
+13. Pergi ke bagian `Code`
 <p align="left"><img height="auto" width="auto" src="https://github.com/Megumiiiiii/Taiko-Node/assets/98658943/85c74394-d2a2-4a3c-a033-f9c836bbd175">
 
-15. Pilih **Verify & Publish**
+14. Pilih **Verify & Publish**
 !<p align="left"><img height="auto" width="auto" src="https://github.com/Megumiiiiii/Taiko-Node/assets/98658943/094505fe-9dcf-42a5-a258-b3e23b83067b">
 
-16. Pilih `flattened`
+15. Pilih `flattened`
 <p align="left"><img height="auto" width="auto" src="https://github.com/Megumiiiiii/Taiko-Node/assets/98658943/b6236cb7-e8bd-44a1-a48d-5599b7c21dff">
 
-17. Masukan nama Contract
+16. Masukan nama Contract
 <p align="left"><img height="auto" width="auto" src="https://github.com/Megumiiiiii/Taiko-Node/assets/98658943/80be4f68-9b30-4172-aac3-337d66459332">
 
-18. Pilih `0.8.12` **WAJIB**
+17. Pilih `0.8.12` **WAJIB**
 <p align="left"><img height="auto" width="auto" src="https://github.com/Megumiiiiii/Taiko-Node/assets/98658943/3ef6c077-3f3c-4c5c-8686-b750591ebe12">
 
-19. Copy semua code mu di remix
+18. Copy semua code mu di remix
 <p align="left"><img height="auto" width="auto" src="https://github.com/Megumiiiiii/Taiko-Node/assets/98658943/92dadb52-7615-487b-95bc-ed1e31064891">
 
-20. Optimiziation pilih `No`. Lalu paste code mu kesana. Dan `Try to fecth..` pilih `Yes`
+29. Optimiziation pilih `No`. Lalu paste code mu kesana. Dan `Try to fecth..` pilih `Yes`
 <p align="left"><img height="auto" width="auto" src="https://github.com/Megumiiiiii/Taiko-Node/assets/98658943/f1a541fb-254e-42c8-8de4-d5a2f6164063">
 
 ## DONE!
