@@ -2,14 +2,13 @@
 
 - [Official Docs](https://taiko.xyz/docs/guides)
 - [Twitter](https://twitter.com/taikoxyz)
-
-[DISCORD](https://discord.gg/taikoxyz)
+- [DISCORD](https://discord.gg/taikoxyz)
 
 [![dev chat](https://discordapp.com/api/guilds/984015101017346058/widget.png?style=banner2)]([https://discord.gg/taikoxyz])
 
 
-[Guide Node](https://github.com/Megumiiiiii/Taiko-Node/blob/main/node.md)
-
+- [Guide Node](https://github.com/Megumiiiiii/Taiko-Node/blob/main/node.md)
+- [Guide SC](https://github.com/Megumiiiiii/Taiko-Node/blob/main/deploy%20SC.md)
 #
 
 <div id="header" align="center">
