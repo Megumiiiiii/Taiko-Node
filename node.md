@@ -137,6 +137,13 @@ lalu
 docker compose up -d
 ```
 
+Jika ingin me restart node
+
+```
+cd ~/simple-taiko-node
+docker compose restart
+```
+
 #
 
 <div id="header" align="center">
