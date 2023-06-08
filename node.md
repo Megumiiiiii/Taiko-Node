@@ -66,10 +66,17 @@ Ubah `false` menjadi `true` lalu paste Private Key wallet baru kalian
 
 Mengaktifkan proposer diperlukan token [TKKO](https://explorer.test.taiko.xyz/address/0x7b1a3117B2b9BE3a3C31e5a097c7F890199666aC) . Cara mendapatnya belum dijelaskan [Disini](https://taiko.xyz/docs/guides/receive-tokens).
 
-Untuk persiapan, bisa di atur terlebih dahulu, cukup ganti `false` ke `true` dan paste Private Key di kolom Private Key lalu Wallet Address di kolom Address.
+ Untuk persiapan, bisa di atur terlebih dahulu, cukup ganti `false` ke `true` dan paste Private Key di kolom Private Key lalu Wallet Address di kolom Address.
 
 <p align="left"><img height="auto" width="auto" src="https://github.com/Megumiiiiii/Taiko-Node/assets/98658943/799cbc63-f28e-40bf-927b-190a39d64d8c"</p>
 
+**Jika sudah memiliki TKKO**
+
+1. Pergi ke Contract Taiko di Sepolia [Disini](https://sepolia.etherscan.io/address/0x6375394335f34848b850114b66A49D6F47f2cdA8#writeProxyContract)
+2. Connect menggunakan wallet yang sama untuk node
+3. Pilih `depositTaikoToken`
+4. Masukan jumlah token yang ingin di depostikan, misal ingin deposit 10 maka isi dengan `1000000000`
+5. Klik Write dan approve di metamask
 
 # RUN!
 
