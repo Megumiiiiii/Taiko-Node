@@ -9,7 +9,6 @@
 
 
 ## Siapkan Dapp Sepolia
-Recommended Infura
 
 [Aclhemy](https://dashboard.alchemy.com/)
 
