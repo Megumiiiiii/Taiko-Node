@@ -14,11 +14,12 @@
 ### Prepare segala keperluan
 
 1. Buka Remix
+2. 
 [DISINI](https://remix.ethereum.org/)
 
-2. Atur jaringan Taiko, pergi ke [Chainlist](https://chainlist.org/?testnets=true&search=Taiko) lalu tambahkan Taiko (Alpha-3 Testnet)
+3. Atur jaringan Taiko, pergi ke [Chainlist](https://chainlist.org/?testnets=true&search=Taiko) lalu tambahkan Taiko (Alpha-3 Testnet)
 
-3. Bridge ETH Sepolia ke Taiko
+4. Bridge ETH Sepolia ke Taiko
 [Disini](https://bridge.test.taiko.xyz/)
 
 Request Sepolia: [Alchemy](https://sepoliafaucet.com/) [Infura](https://www.infura.io/faucet/sepolia)
