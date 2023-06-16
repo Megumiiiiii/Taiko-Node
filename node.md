@@ -71,7 +71,7 @@ Mengaktifkan proposer diperlukan token [TKKO](https://explorer.test.taiko.xyz/ad
 
 <p align="left"><img height="auto" width="auto" src="https://github.com/Megumiiiiii/Taiko-Node/assets/98658943/799cbc63-f28e-40bf-927b-190a39d64d8c"</p>
 
-**Jika sudah memiliki TKKO**
+## **Jika sudah memiliki TKKO**
 
 1. Pergi ke Contract Taiko di Sepolia [Disini](https://sepolia.etherscan.io/address/0x6375394335f34848b850114b66A49D6F47f2cdA8#writeProxyContract)
 2. Connect menggunakan wallet yang sama untuk node
