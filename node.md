@@ -87,28 +87,28 @@ docker compose up -d
 
 ## Command lain-lain
 
-Cek logs
+### Cek logs
 
 ```
 cd ~/simple-taiko-node
 docker compose logs -f
 ```
 
-Cek logs `Prover` kalo di aktifin
+### Cek logs `Prover` kalo di aktifin
 
 ```
 cd ~/simple-taiko-node
 docker compose logs -f taiko_client_prover_relayer
 ```
 
-Cek logs L2 
+### Cek logs L2 Engine
 
 ```
 cd ~/simple-taiko-node
 docker compose logs -f l2_execution_engine
 ```
 
-Cek stats
+### Cek stats
 
 buka link ini di browser kalian, ganti `IPVPS` ke IP VPS mu
   
